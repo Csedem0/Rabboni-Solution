@@ -29,7 +29,7 @@ html {
   margin-top: 20px;
   margin-left: 20px;
   line-height: normal;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .header-p {
@@ -37,7 +37,7 @@ html {
   margin-left: 20px;
   margin-bottom: 20px;
   line-height: normal;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .header-nav2 {
@@ -60,7 +60,7 @@ html {
   color: white;
   text-decoration: none;
   line-height: normal;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .section-color {
@@ -128,7 +128,7 @@ html {
   line-height: 30px;
   width: 300px;
   font-weight: bold;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .right {
@@ -156,7 +156,7 @@ html {
 
 .second-h1 {
   color: rgb(45, 39, 52);
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .service-image1 {
@@ -195,7 +195,7 @@ html {
 }
 
 .p3 {
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   letter-spacing: 0.24px;
   line-height: 30px;
   width: 700px;
@@ -293,24 +293,24 @@ html {
 
 .third-h1 {
   color: rgb(45, 39, 52);
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .fourth-h1 {
   color: rgb(45, 39, 52);
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .fifth-h1 {
   color: rgb(45, 39, 52);
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .sixth-h1 {
   color: rgb(45, 39, 52);
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .p4 {
   margin-left: 40px;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   letter-spacing: 0.24px;
   line-height: 30px;
   color: rgb(45, 39, 52);
@@ -318,7 +318,7 @@ html {
 
 .p5 {
   margin-left: 40px;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   letter-spacing: 0.24px;
   line-height: 30px;
   color: rgb(45, 39, 52);
@@ -326,7 +326,7 @@ html {
 
 .p6 {
   margin-left: 40px;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   letter-spacing: 0.24px;
   line-height: 30px;
   color: rgb(45, 39, 52);
@@ -334,7 +334,7 @@ html {
 
 .p7 {
   margin-left: 40px;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   letter-spacing: 0.24px;
   line-height: 30px;
   color: rgb(45, 39, 52);
@@ -360,7 +360,7 @@ html {
 }
 
 h2 {
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .applications {
@@ -371,7 +371,7 @@ h2 {
 
 li {
   color: rgb(45, 39, 52);
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 ol {
@@ -383,7 +383,7 @@ ol {
   flex-direction: column;
   align-items: center;
   gap: 5px;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   color: rgb(45, 39, 52);
   background-color: white;
   opacity: 90%;
@@ -421,7 +421,7 @@ ol {
   font-size: 30px;
   font-weight: bold;
   color: rgb(45, 39, 52);
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .eight-h1 {
@@ -517,7 +517,8 @@ h2 {
     line-height: 20px;
     width: 400px;
     align-items: center;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS',
+      sans-serif;
   }
 
   .right {
@@ -536,7 +537,8 @@ h2 {
     padding-bottom: 100px;
   }
   .p3 {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS',
+      sans-serif;
     letter-spacing: 0.1px;
     line-height: 30px;
     width: 400px;
@@ -578,7 +580,8 @@ h2 {
   .p5,
   .p6 {
     margin-left: 30px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS',
+      sans-serif;
     letter-spacing: 0.1px;
     line-height: 20px;
     color: rgb(45, 39, 52);
@@ -641,7 +644,8 @@ h2 {
     line-height: 20px;
     width: 300px;
     font-weight: bold;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS',
+      sans-serif;
   }
 
   .landing-page {
@@ -656,7 +660,8 @@ h2 {
 
   .header-h1 {
     font-size: 17px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS',
+      sans-serif;
   }
 
   .left-h2 {
@@ -693,7 +698,8 @@ h2 {
     width: 300px;
     font-weight: lighter;
     color: rgb(45, 39, 52);
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS',
+      sans-serif;
   }
   .service-image1,
   .service-image2,
@@ -758,7 +764,8 @@ h2 {
     line-height: 15px;
     width: 250px;
     font-weight: lighter;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS',
+      sans-serif;
   }
 
   .first-image {
@@ -772,7 +779,8 @@ h2 {
     border-bottom-left-radius: 30px;
     padding-top: 30px;
     padding-bottom: 80px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS',
+      sans-serif;
   }
   .p3 {
     letter-spacing: 0.1px;
@@ -780,7 +788,8 @@ h2 {
     width: 200px;
     font-weight: lighter;
     color: rgb(45, 39, 52);
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS',
+      sans-serif;
   }
 
   .p1,
