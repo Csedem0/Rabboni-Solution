@@ -740,49 +740,58 @@ h2 {
   .third-h1 {
     font-size: 15px;
   }
+  .p1,
+  .p2 {
+    font-weight: lighter;
+  }
+}
 
-  @media screen and (max-width: 300px) {
-    .left {
-      display: flex;
-      flex: 1;
-      flex-direction: column;
-      gap: 15px;
-      margin-left: 10px;
-      top: 50px;
-      letter-spacing: 0.01px;
-      line-height: 15px;
-      width: 250px;
-      font-weight: lighter;
-      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    }
+@media screen and (max-width: 300px) {
+  .left {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    gap: 15px;
+    margin-left: 10px;
+    top: 50px;
+    letter-spacing: 0.01px;
+    line-height: 15px;
+    width: 250px;
+    font-weight: lighter;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
 
-    .first-image {
-      width: 270px;
-      margin-left: -100px;
-    }
-    .services {
-      gap: 30px;
-      margin-left: 0px;
-      border-top-left-radius: 30px;
-      border-bottom-left-radius: 30px;
-      padding-top: 30px;
-      padding-bottom: 80px;
-      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    }
-    .p3 {
-      letter-spacing: 0.1px;
-      line-height: 20px;
-      width: 200px;
-      font-weight: lighter;
-      color: rgb(45, 39, 52);
-      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    }
-    .address-left,
-    .address-right {
-      display: none;
-    }
-    .address {
-      margin-left: 50px;
-    }
+  .first-image {
+    width: 270px;
+    margin-left: -100px;
+  }
+  .services {
+    gap: 30px;
+    margin-left: 0px;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    padding-top: 30px;
+    padding-bottom: 80px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  .p3 {
+    letter-spacing: 0.1px;
+    line-height: 20px;
+    width: 200px;
+    font-weight: lighter;
+    color: rgb(45, 39, 52);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+  .p1,
+  .p2 {
+    font-weight: lighter;
+  }
+  .address-left,
+  .address-right {
+    display: none;
+  }
+  .address {
+    margin-left: 50px;
   }
 }
