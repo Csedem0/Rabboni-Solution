@@ -517,6 +517,7 @@ h2 {
     line-height: 20px;
     width: 400px;
     align-items: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   }
 
   .right {
@@ -655,6 +656,7 @@ h2 {
 
   .header-h1 {
     font-size: 17px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   }
 
   .left-h2 {
@@ -691,6 +693,7 @@ h2 {
     width: 300px;
     font-weight: lighter;
     color: rgb(45, 39, 52);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   }
   .service-image1,
   .service-image2,
@@ -764,6 +767,7 @@ h2 {
       border-bottom-left-radius: 30px;
       padding-top: 30px;
       padding-bottom: 80px;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     }
     .p3 {
       letter-spacing: 0.1px;
@@ -771,6 +775,7 @@ h2 {
       width: 200px;
       font-weight: lighter;
       color: rgb(45, 39, 52);
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     }
     .address-left,
     .address-right {
